@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+ssh.sh
+apiskeleton.log
+
+/apiapp/migrations/0*
+/public/*
+/tmp/*
+/media/*
+
+!public/.gitkeep

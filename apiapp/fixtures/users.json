@@ -1,0 +1,56 @@
+[
+{
+    "model": "apiapp.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$SoF7ueJzOE1I$244qaRI1dReT4DxZKXJi2sRmuKdqPcjeOiUaPdH2UV0=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@slowcode.io",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-08-29T10:09:27.191Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "apiapp.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$bkA3NXYqXZ4S$zuH97poSj3trZoNRFeROw3PgutbGOHlZunliI8/1jbg=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "user1",
+        "first_name": "",
+        "last_name": "",
+        "email": "user1@slowcode.io",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-08-29T10:10:56.873Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "apiapp.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$KKujn28LvdGX$OxtfRmIUWNPwbBPsz2iwKwff8klJ5PiPXj3P9N70Hto=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "user2",
+        "first_name": "",
+        "last_name": "",
+        "email": "user2@slowcode.io",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-08-29T10:11:19.576Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
